@@ -19,7 +19,8 @@ Checklist
 
 Stack of technologies 
 - TestNG - for creating and running of tests
--Maven - for project guiding, gathering and running tests
+
+- Maven - for project guiding, gathering and running tests
 
 - Selenium - for automating of interaction with web browsers
 
