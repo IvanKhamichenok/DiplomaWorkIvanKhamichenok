@@ -1,0 +1,8 @@
+# Intellij
+.idea
+*.iml
+*.iws
+/out/
+/target/
+Footer
+© 2023 GitHub, Inc.
